@@ -29,7 +29,7 @@
 [<img title="VUE" alt="VUE"  width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />](https://vuejs.org/)
 [<img title="ANGULAR" alt="ANGULAR"  width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />](https://angular.io/)
 [<img title="REDUX" alt="REDUX"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />](https://redux.js.org/)
-[<img title="Zustand" alt="Zustand"  width="40px" height="40px" src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715365835/Zustand_uokajk.png" />](https://zustand-demo.pmnd.rs/)
+[<img title="Zustand" alt="Zustand"  width="40px" height="40px" src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715367046/Zustand_pypkww.avif" />](https://zustand-demo.pmnd.rs/)
 [<img title="SASS" alt="SASS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
 [<img title="TYPESCRIPT" alt="TYPESCRIPT"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img title="AWS" alt="AWS"  width="40px" height="40px"
@@ -38,11 +38,5 @@
       src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1673650384/material-ui-1_waefnx.svg" />](https://mui.com/)
 [<img title="Chakra UI" alt="Chakra UI"  width="40px" height="40px"
       src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715366305/Chakra_rkll3e.jpg" />](https://v2.chakra-ui.com/)
-[<img title="Headless UI" alt="Headless UI"  width="40px" height="40px"
-      src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715366405/Headless_p81meh.jpg" />](https://headlessui.com/)  
 [<img title="Firebase" alt="Firebase"  width="40px" height="40px"
       src="https://res.cloudinary.com/dsinv9pik/image/upload/c_scale,w_40/v1715364814/Firebase_svb6lp.png" />](https://firebase.google.com/)
-[<img title="Firebase" alt="Firebase"  width="40px" height="40px"
-      src="https://res.cloudinary.com/dsinv9pik/image/upload/c_scale,w_40/v1715364814/Firebase_svb6lp.png" />](https://firebase.google.com/)
-[<img title="Bit" alt="Bit"  width="40px" height="40px"
-      src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715366093/Bit_sji7yv.jpg" />](https://bit.dev/)
