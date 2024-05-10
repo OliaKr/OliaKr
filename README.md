@@ -1,2 +1,1 @@
-# Olia-Krasilnikov
-Config files for my GitHub profile.
+# Hi! I'm Olia Krasilnikov👋
