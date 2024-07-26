@@ -4,7 +4,7 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a website for medical massage therapist, check it out, it has everything! [Marina Therapy](https://main.d2tvvv5hcr4651.amplifyapp.com/)
+• 🏆 I recently built an interactive landing page for Brainwave AI chatbot app, check it out, it has everything! [Brainwave](https://main.d3f7nseedr4ova.amplifyapp.com/)
 
 • 🖋️ Also, I'm managing [Maakaf](https://maakaf.netlify.app/) open source community of developers and it's been a rewarding experience.
 
