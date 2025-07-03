@@ -4,11 +4,11 @@
 
 • 🎯 Currently building practical AI workflows using **Python**, **LangChain**, **Azure OpenAI**, **Azure AI Search**, **Azure AI Foundry**, **Power   Automate**, **Zapier**, and **n8n**
 
-• 🧩 My Projects include Python-based AI agents for customer insight generation, document simplification using RAG, and resume screening automation.
+• 🧩 My Projects include Python-based AI agents for customer insight generation, document simplification using RAG, and automations.
 
 • 🏆 I recently built a smart AI agent to help new immigrants navigate complex documents → [EasyDocs](https://github.com/OliaKr/easydocs-agent)
 
-• 🖋️ Also, I'm managing [Maakaf](https://maakaf.netlify.app/) open source community of developers and it's been a rewarding experience.
+• 🖋️ Also, I'm managing [Maakaf](https://maakaf.netlify.app/) open-source community of developers, and it's been a rewarding experience.
 
 • 📫 You can reach me at olianinko@gmail.com
 
