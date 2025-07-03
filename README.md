@@ -4,7 +4,7 @@
 
 • 🎯 Currently building practical AI workflows using **Python**, **LangChain**, **Azure OpenAI**, **Azure AI Search**, **Azure AI Foundry**, **Power   Automate**, **Zapier**, and **n8n**
 
-• 🧩 My Projects include Python-based AI agents for customer insight generation, document simplification using RAG (Retrieval-Augmented Generation), and resume screening automation.
+• 🧩 My Projects include Python-based AI agents for customer insight generation, document simplification using RAG, and resume screening automation.
 
 • 🏆 I recently built a smart AI agent to help new immigrants navigate complex documents → [EasyDocs](https://github.com/OliaKr/easydocs-agent)
 
