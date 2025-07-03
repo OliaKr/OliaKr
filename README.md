@@ -1,10 +1,12 @@
 # Hi! I'm Olia Krasilnikov👋
 
-• 🌴 Proficient in building single-page apps
+• 🧠 I'm passionate about building smart solutions using modern front-end and AI tools.
 
-• 🎯 High self-disciplined with a constant drive for professional excellence.
+• 🎯 Currently building practical AI workflows using **Python**, **LangChain**, **Azure OpenAI**, **Azure AI Search**, **Azure AI Foundry**, **Power   Automate**, **Zapier**, and **n8n**
 
-• 🏆 I recently built an interactive landing page for Brainwave AI chatbot app, check it out, it has everything! [Brainwave](https://main.d3f7nseedr4ova.amplifyapp.com/)
+• 🧩 My Projects include Python-based AI agents for customer insight generation, document simplification using RAG (Retrieval-Augmented Generation), and resume screening automation.
+
+• 🏆 I recently built a smart AI agent to help new immigrants navigate complex documents → [EasyDocs](https://github.com/OliaKr/easydocs-agent)
 
 • 🖋️ Also, I'm managing [Maakaf](https://maakaf.netlify.app/) open source community of developers and it's been a rewarding experience.
 
@@ -16,6 +18,13 @@
 
 ## Languages and Tools:
 
+[<img title="Python" alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
+[<img title="LangChain" alt="LangChain" width="40px" height="40px" src="https://avatars.githubusercontent.com/u/110266390?s=200&v=4" />](https://www.langchain.com/)
+[<img title="Azure" src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715364297/AWS_pdymi9.png" width="40px"/>](https://azure.microsoft.com/)
+[<img title="OpenAI" src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40px"/>](https://openai.com/)
+[<img title="Zapier" src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715366713/zapier_w3at8o.svg" width="40px"/>](https://zapier.com/)
+[<img title="Power Automate" src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715366713/powerautomate_rpkrvx.png" width="40px"/>](https://powerautomate.microsoft.com/)
+[<img title="n8n" src="https://res.cloudinary.com/dsinv9pik/image/upload/v1715366713/n8n_tenbkp.png" width="40px"/>](https://n8n.io/)
 [<img title="CSS" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
 [<img title="EXPRESS" alt="EXPRESS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />](https://expressjs.com/)
 [<img title="GIT" alt="GIT"  width="40px" height="40px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705957283/github-142-svgrepo-com_2_fygu3n.svg" />](https://git-scm.com/)
