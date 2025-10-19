@@ -1,16 +1,17 @@
-# Hi! I'm Olia Krasilnikov👋
+# Hi! I'm Olia Krasilnikov 👋
 
-• 🧠 I'm passionate about building smart solutions using modern front-end and AI tools.
+• 🧠 I'm passionate about building smart, human-centered solutions with modern front-end and AI automation tools.  
 
-• 🎯 Currently building practical AI workflows using **Python**, **LangChain**, **Azure OpenAI**, **Azure AI Search**, **Azure AI Foundry**, **Power   Automate**, **Zapier**, and **n8n**
+• 🎯 Currently developing practical AI workflows using **Python**, **LangChain**, **Azure OpenAI**, **Azure AI Search**, **Azure AI Foundry**, **Power Automate**, **Zapier**, and **n8n**.  
 
-• 🧩 My Projects include Python-based AI agents for customer insight generation, document simplification using RAG, and automations.
+• 🧩 My projects combine AI, data, and automation — from document simplification with RAG to intelligent mentor-matching systems for startups.  
 
-• 🏆 I recently built a smart AI agent to help new immigrants navigate complex documents → [EasyDocs](https://github.com/OliaKr/easydocs-agent)
+• 🏆 Recently, I built **[AI-Powered Mentor Matching System](https://github.com/OliaKr/ai-mentor-matching)** — a system that connects startups with the right mentors using **OpenAI**, **n8n**, and **Airtable** to automate the matching process.  
 
-• 🖋️ Also, I'm managing [Maakaf](https://maakaf.netlify.app/) open-source community of developers, and it's been a rewarding experience.
+• 🖋️ I'm also leading **[Maakaf](https://maakaf.netlify.app/)**, an open-source community of developers, and it's been a rewarding experience.
 
-• 📫 You can reach me at olianinko@gmail.com
+• 📫 Reach me at **olianinko@gmail.com**
+
 
 ## Connect with me:
 
