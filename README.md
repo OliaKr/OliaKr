@@ -6,7 +6,7 @@
 
 • 🧩 My projects combine AI, data, and automation — from document simplification with RAG to intelligent mentor-matching systems for startups.  
 
-• 🏆 Recently, I built **[AI-Powered Mentor Matching System](https://github.com/OliaKr/ai-mentor-matching)** — a system that connects startups with the right mentors using **OpenAI**, **n8n**, and **Airtable** to automate the matching process.  
+• 🏆 Recently, I built **[AI-Powered Mentor Matching System](https://github.com/OliaKr/ai-mentor-matching)** — a system that connects startups with the right mentors using **OpenAI**, **n8n**, **JavaScript**, **Node.js** and **Airtable** to automate the matching process.  
 
 • 🖋️ I'm also leading **[Maakaf](https://maakaf.netlify.app/)**, an open-source community of developers, and it's been a rewarding experience.
 
